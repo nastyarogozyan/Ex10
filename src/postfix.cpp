@@ -38,7 +38,7 @@ bool check(char el) {
 }
 
 std::string infix2postfix(std::string infix) {
-  return infix;
+  
     MyStack<char> stack(500);
     std::string result = "";
     std::string tm = "";
