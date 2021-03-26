@@ -1,12 +1,5 @@
-//
-//  main.cpp
-//  ex10
-//
-//  Created by Anastasiya Rogozyan
-//  19.03.2021.
-//  Copyright © 2021 Anastasiya Rogozyan.
-//  All rights reserved.
-//
+// Copyright 2021 RAT
+
 #include <iostream>
 #include <string>
 
