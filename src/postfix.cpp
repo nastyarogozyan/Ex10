@@ -2,8 +2,10 @@
 //  postfix.cpp
 //  ex10
 //
-//  Created by Anastasiya Rogozyan on 19.03.2021.
-//  Copyright © 2021 Anastasiya Rogozyan. All rights reserved.
+//  Created by Anastasiya Rogozyan
+//  19.03.2021.
+//  Copyright © 2021 Anastasiya Rogozyan.
+//  All rights reserved.
 //
 
 #include "postfix.h"
@@ -38,7 +40,9 @@ bool check(char el) {
 }
 
 std::string infix2postfix(std::string infix) {
-  
+    
+  return infix;
+    
     MyStack<char> stack(500);
     std::string result = "";
     std::string tm = "";
