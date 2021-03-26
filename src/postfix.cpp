@@ -1,5 +1,5 @@
 // Copyright 2021 RAT
-
+#include "MyStack.h"
 #include "postfix.h"
 
 int priority(char a) {
